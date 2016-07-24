@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "1004796808768",
+    "project_id": "gcmsample-1bbbc"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004796808768:android:0f3fdfc4defb782c",
+        "android_client_info": {
+          "package_name": "hyk.gcmsample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDTKOphDWNCfW4EsDJWLGkfPBqOtJWqiA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
